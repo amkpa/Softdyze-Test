@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.softfdyze.SoftDyze1ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.375 s - in com.softfdyze.SoftDyze1ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.545 s - in com.softfdyze.SoftDyze1ApplicationTests
