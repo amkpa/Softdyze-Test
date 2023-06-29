@@ -1,0 +1,6 @@
+com\softfdyze\SoftDyze1Application.class
+com\softfdyze\service\ServiceClass.class
+com\softfdyze\entity\SoftDyzeData.class
+com\softfdyze\controller\Controller01.class
+com\softfdyze\ServletInitializer.class
+com\softfdyze\repo\ImplementationClass.class
